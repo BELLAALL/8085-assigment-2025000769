@@ -1,4 +1,4 @@
-# 8085-assigment-2025000769
+# 8085-assignment-2025000769
 NAME: Belal Osama Ramadan
 
 ID:2025000769
